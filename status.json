@@ -1,5 +1,5 @@
 {
-  "freeMode": true,
+  "freeMode": false,
   "checkVpn": true,
   "checkApps": false,
   "freeModeMsg": "You are in free mode.",
