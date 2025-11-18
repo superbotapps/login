@@ -1,9 +1,8 @@
 {
-  "serverActive": true,
+  "serverActive": false,
   "checkVpn": true,
   "checkApps": false,
   "freeModeMsg": "You are in free mode.",
-  "maintenanceMsg": "Server is under maintenance.",
   "detectVpnMsg": "Please turn off VPN!",
   "detectAppsMsg": "Please uninstall the reversal tool!"
 }
